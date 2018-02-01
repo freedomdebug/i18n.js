@@ -1,4 +1,4 @@
-jQuery Internationalization (i18n)
+jQuery Internationalization (i18n)一款jquery国际化插件工具
 =======
 
 This is a lightweight jQuery function for translating strings of text on html pages.  This plugin detects the language set by the user in their browser or by using a forced language in the your javascript.
